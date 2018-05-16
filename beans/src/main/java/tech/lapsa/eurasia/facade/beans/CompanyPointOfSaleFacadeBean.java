@@ -1,4 +1,4 @@
-package tech.lapsa.epayment.facade.beans;
+package tech.lapsa.eurasia.facade.beans;
 
 import java.util.List;
 import java.util.stream.Stream;
