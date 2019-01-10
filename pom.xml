@@ -9,7 +9,7 @@
 
 	<groupId>tech.lapsa.eurasia</groupId>
 	<artifactId>eurasia-facade-root</artifactId>
-	<version>20190110</version>
+	<version>CURRENT-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Eurasia Lib : Facade</name>
@@ -83,7 +83,7 @@
 	<scm>
 		<connection>scm:git:https://github.com/eurasia-insurance/eurasia-facade.git</connection>
 		<developerConnection>scm:git:https://github.com/eurasia-insurance/eurasia-facade.git</developerConnection>
-		<tag>v20190110</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 </project>
