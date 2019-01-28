@@ -21,12 +21,12 @@
 
 	<properties>
 		<!-- BOMS -->
-		<javax-javaee-bom.version>CURRENT-SNAPSHOT</javax-javaee-bom.version>
-		<java-commons.version>CURRENT-SNAPSHOT</java-commons.version>
-		<payara-bom.version>CURRENT-SNAPSHOT</payara-bom.version>
+		<javax-javaee-bom.version>20190128r1</javax-javaee-bom.version>
+		<java-commons.version>20190128r1</java-commons.version>
+		<payara-bom.version>20190128r1</payara-bom.version>
 		<!-- EJB clients -->
-		<eurasia-facade-client.version>CURRENT-SNAPSHOT</eurasia-facade-client.version>
-		<eurasia-dao-client.version>CURRENT-SNAPSHOT</eurasia-dao-client.version>
+		<eurasia-facade-client.version>20190128r1</eurasia-facade-client.version>
+		<eurasia-dao-client.version>20190128r1</eurasia-dao-client.version>
 	</properties>
 
 	<dependencyManagement>
